@@ -3,7 +3,7 @@ entries:
   demo2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-02-21T19:24:53.829468845+03:00"
+    created: "2024-02-21T19:42:42.414479786+03:00"
     description: A Helm chart for Kubernetes
     digest: b809449bd7872185ba2087be777dd0062c72c88ad6c4a5e3691267d3ea14bd34
     name: demo2
@@ -14,7 +14,7 @@ entries:
   demogitrepo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-02-21T19:24:53.84883747+03:00"
+    created: "2024-02-21T19:42:42.421936073+03:00"
     description: A Helm chart for Kubernetes
     digest: 2758969229e0f6400b998ea9a6fedaf083344abdb6d3474809d77c07ec8003d0
     name: demogitrepo
@@ -25,9 +25,9 @@ entries:
   phonebook-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-02-21T19:24:53.857131252+03:00"
+    created: "2024-02-21T19:42:42.430367199+03:00"
     description: A Helm chart for phonebook app.
-    digest: ddd4a373500ecf4834a3c000c5c6203cffeb3c85e0aeff55eb9c7e6cd6de6698
+    digest: 9d0b409271eb3872425438f94a4603e0625b2b54d14e6d783a55483847cfd8be
     name: phonebook-chart
     type: application
     urls:
@@ -36,7 +36,7 @@ entries:
   second-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-02-21T19:24:53.880227558+03:00"
+    created: "2024-02-21T19:42:42.437718982+03:00"
     description: A Helm chart for Kubernetes
     digest: f9a41687c4d82a7be13253f3ce0a3f57554b6278c7a22e7646eb23084ad250a9
     name: second-chart
@@ -44,4 +44,4 @@ entries:
     urls:
     - second-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-02-21T19:24:53.808037075+03:00"
+generated: "2024-02-21T19:42:42.40575555+03:00"
